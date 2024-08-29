@@ -1,0 +1,6 @@
+SELECT * 
+from model 
+limit 5;
+
+ 
+
